@@ -3,7 +3,7 @@ package org.example;
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class Main implements ImplNicknameGenerator {
+public class Main {
     public static AtomicInteger counter3 = new AtomicInteger();
     public static AtomicInteger counter4 = new AtomicInteger();
     public static AtomicInteger counter5 = new AtomicInteger();
